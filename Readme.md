@@ -5,7 +5,7 @@ The Asset Renamer Tool is a Python script with a graphical user interface (GUI) 
 
 ## Table of Contents
 Developer Documentation [here](./docs/developer/developer_documentation.md)
-User Documentation [here](".docs/user/user_documentation.md")
+User Documentation [here](https://github.com/Dante-yamato/asset-renamer-tool/blob/main/docs/user/user_documentation.md)
 
 ## Usage
 
