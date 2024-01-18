@@ -11,6 +11,7 @@ User Documentation [here](https://github.com/Dante-yamato/asset-renamer-tool/blo
 
 1. Run the script (`run.py`).
 2. The GUi will prompt for txt file as an input. It is located [here](https://github.com/Dante-yamato/asset-renamer-tool/blob/main/src/asset_renamer_tool/scene_asset_gui/scene_assets.txt)
+Path = "src/asset_renamer_tool/scene_asset_gui/scene_assets.txt"
 3. Open a scene file using the "Open Scene File" button.
 4. Click the "Run Asset Renamer" button to update the scene.
 5. View the updated scene and unique assets in a new window.
