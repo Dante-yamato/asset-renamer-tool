@@ -36,6 +36,10 @@ asset-renamer-tool/
 │   └── example.py
 │
 ├── .gitignore
+├── .flake8
+├── .gitattributes
+├── LICENSE
+├── requirement.txt
 ├── README.md
 |── run.py
 └── setup.py
