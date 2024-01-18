@@ -1,0 +1,26 @@
+[flake8]
+exclude = .git,__pycache__,venv
+
+# Ignoring some errors
+ignore = E501,W503,E203
+
+# Plugins
+extend-ignore = E203, E501
+
+# Specify maximum line length
+max-line-length = 88
+
+# Exclude some files or directories from linting
+exclude =
+    .git,
+    __pycache__,
+    venv,
+    .venv,
+    env,
+    .env
+
+# Select the error codes you want Flake8 to report
+select = C,E,F,W,B,B9
+
+# Enable plugins
+enable-extensions = G
